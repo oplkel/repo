@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[483],{4410:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/oplkel/repo/blob/master","baseUrl":"/repo/","classOrder":[],"apiCategories":[]}')}}]);
