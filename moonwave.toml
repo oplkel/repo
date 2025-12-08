@@ -1,4 +1,6 @@
-title = "repo"
+title = "Repository"
+
+gitSourceBranch = "main"
 
 [home]
 enabled = true
