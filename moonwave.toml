@@ -1,8 +1,0 @@
-title = "repo"
-
-[docusaurus]
-tagline = "The repo repository."
-
-[footer]
-style = "dark"
-copyright = "Copyright © 2025 oplkel. Built with Moonwave and Docusaurus"
